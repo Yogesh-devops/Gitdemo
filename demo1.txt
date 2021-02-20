@@ -11,3 +11,5 @@ git commit
 
 git config user.name 
 git config user.email
+
+this line added to check fetch
