@@ -1,1 +1,26 @@
 this is sample text
+git init
+git checkout
+git branch
+<<<<<<< HEAD
+git commit
+git commit -am "message"
+git status
+<<<<<<< HEAD
+
+
+git config
+
+git push
+
+git config --global user.name 
+git config --global user.email
+git remote add origin "https:"
+
+
+git push --set-upstream origin remote
+git merge
+=======
+>>>>>>> parent of cd5f3b6 (third)
+=======
+>>>>>>> parent of 0958724 (fourth)

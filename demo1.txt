@@ -1,0 +1,13 @@
+git init project1
+touch sample.txt
+git status
+
+git config user.name 
+git config user.email
+
+git stash
+git add
+git commit
+
+git config user.name 
+git config user.email
